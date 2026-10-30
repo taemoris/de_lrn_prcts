@@ -8,6 +8,7 @@ authors = [
 ]
 requires-python = ">=3.14"
 dependencies = [
+    "boto3>=1.43.122",
     "ipykernel>=7.4.0",
     "pandas",
     "pyspark",
