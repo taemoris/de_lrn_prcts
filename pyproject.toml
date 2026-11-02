@@ -6,7 +6,7 @@ readme = "README.md"
 authors = [
     { name = "temorisz", email = "bekov.tembulat.g@gmail.com" }
 ]
-requires-python = ">=3.14"
+requires-python = ">=3.12"
 dependencies = [
     "boto3>=1.43.122",
     "ipykernel>=7.4.0",
